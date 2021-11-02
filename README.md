@@ -1,5 +1,5 @@
 # SpringReactiveCache - Caffeine
-##high-performance caching library for Java. One fundamental difference between a cache and a Map is that a cache evicts stored items based on configurations.
+### High-performance caching library for Java. One fundamental difference between a cache and a Map is that a cache evicts stored items based on configurations.
 
 
 ~~~
